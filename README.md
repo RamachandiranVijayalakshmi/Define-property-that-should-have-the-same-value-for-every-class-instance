@@ -1,0 +1,1 @@
+# Define-property-that-should-have-the-same-value-for-every-class-instance
